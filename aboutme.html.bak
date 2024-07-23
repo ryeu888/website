@@ -10,7 +10,6 @@
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
   </head>
   <body>
-    <p class="helloWorld">Hello World</p>
     <div id="tswcontainer">
       <div id="tswheader">
         <!-- start of header section: insert your logo, etc, here -->
@@ -22,10 +21,17 @@
       <div id="tswcontent">
         <div id="tswcontproper">
           <!-- start of content column: insert your content here -->
-          <h1>Welcome to Frontiers 24</h1>
-          <p>I am taking this course to learn more about programming. In this
-            class I made a game. </p>
-          <p>&nbsp;</p>
+          <h1>About Me</h1>
+          <h1></h1>
+          <h1></h1>
+          <p>&nbsp;My name is Ryan Yeu and I am 16 years old. Prior to this, I
+            have only had </p>
+          <p>coding experience in Python. Now I have had experience with CSS,
+            JavaScript, and HTML. </p>
+          <p>I enjoy playing tennis and am interested in cooking.</p>
+          <h1><img src="https://penaltyfile.com/wp-content/uploads/2020/09/types-of-tennis-rackets-Sept292020-1-min.jpg"
+              alt="5 Different Types of Tennis Rackets" style="width: 189px; height: 126px;"></h1>
+          <p></p>
           <!-- end of content column: put your content above this line --> </div>
       </div>
       <div id="tswsidecol">
@@ -35,17 +41,16 @@
             <ul>
               <li><a href="index.html">Home</a></li>
               <li><a href="aboutme.html">About Me</a></li>
-              <li><a href="mytown.html">My Town</a></li>
+              <li><a href="mytown.html">My Town</a>
+                <h1></h1>
+              </li>
             </ul>
           </div>
           <!-- end of side column: put your navigation menu, etc, above this line -->
         </div>
       </div>
       <div style="clear: both;"></div>
-      <div id="tswfooter">
-        <!-- start of footer section: insert your copyright notice, etc, here -->
-        <p> Placeholder content for the footer: please replace these words with
-          your real content. </p>
+      <div id="tswfooter"> <br>
         <!-- end of footer section: insert your copyright notice, etc, above this line -->
       </div>
     </div>
